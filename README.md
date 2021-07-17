@@ -4,4 +4,4 @@ Ecommerce app built with React + Redux on the frontend and Django on the backend
 You are welcome to register on the website and play around :)
 
 MAIN PAGE:
-[Main Page Pic](https://i.imgur.com/qtf9tA6.jpg)
+![Main Page Pic](https://i.imgur.com/qtf9tA6.jpg)
