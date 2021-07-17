@@ -1,7 +1,9 @@
 # proshop_django
-Ecommerce app built with React + Redux on the frontend and Django on the backend. The database used is PostgreSQL. The site is hosted on Heroku, database is on AWS RDS and uploaded images are stored on AWS S3
+Ecommerce app built with **React + Redux** on the frontend and **Django** on the backend. The database used is **PostgreSQL**. The site is hosted on **Heroku**, database is on **AWS RDS** and uploaded images are stored on **AWS S3**.
 
 You are welcome to register on the website and play around :)
+
+**HERE IS THE [LINK](https://proshop-project-site.herokuapp.com/)**
 
 ## MAIN PAGE:
 
@@ -38,4 +40,4 @@ You are welcome to register on the website and play around :)
 
 ## ADMIN PAGE 3 - ORDERS INFO:
 
-![Admin Page 3 - Orders Info]((https://i.imgur.com/VygSC6B.jpg)
+![Admin Page 3 - Orders Info](https://i.imgur.com/VygSC6B.jpg)
