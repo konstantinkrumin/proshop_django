@@ -3,7 +3,7 @@ Ecommerce app built with **React + Redux** on the frontend and **Django** on the
 
 You are welcome to register on the website and play around :)
 
-**HERE IS THE [LINK](https://proshop-project-site.herokuapp.com/).**
+**HERE IS THE [LINK](https://proshop-project-site.herokuapp.com/)**.
 
 ## MAIN PAGE:
 
